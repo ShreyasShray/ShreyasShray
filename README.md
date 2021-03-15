@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShreyasShray
 - 👀 I’m interested in  HTML, CSS, JavaScript
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on indeed
 - 📫 How to reach me ...
 my email:-  atulkumar94308@gmail.com
 
