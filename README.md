@@ -3,7 +3,7 @@
 **B.Tech Mechanical Engineering · NIT Jamshedpur**
 Building toward a career in Robotics — and eventually my own venture.
 ## 🤖 About Me
-- 🎓 2nd year Mech undergrad at NIT Jamshedpur
+- 🎓 3rd year Mech undergrad at NIT Jamshedpur
 - 🦾 Passionate about Robotics · ROS 2 · Autonomous Systems
 - 🌱 Currently learning DSA in Java + ROS 2 / Nav2 / SLAM
 - 🔭 Building: corridor-mapping robot (LiDAR + RPi 4)
