@@ -5,7 +5,7 @@ Building toward a career in Robotics — and eventually my own venture.
 ## 🤖 About Me
 - 🎓 3rd year Mech undergrad at NIT Jamshedpur
 - 🦾 Passionate about Robotics · ROS 2 · Autonomous Systems
-- 🌱 Currently learning DSA in Java + ROS 2 / Nav2 / SLAM
+- 🌱 Currently learning ML and DL + ROS 2 / Nav2 / SLAM
 - 🔭 Building: corridor-mapping robot (LiDAR + RPi 4)
 - 📱 Side project: NutriCore — AI-powered Indian food nutrition tracker
 - 🏆 Competed in Trace Bot, Maze Solver, Robo War events
